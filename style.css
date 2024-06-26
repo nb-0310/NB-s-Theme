@@ -22,7 +22,7 @@ Author URI: https://nirzarbhatt.netlify.app/
     --white: #fff;
     --gray: #767575;
     --gray-dark: #434242;
-    --primary: #6f42c1;
+    --primary: #151515;
     --secondary: #4f4f4f;
     --success: #28a745;
     --info: #17a2b8;
@@ -168,7 +168,7 @@ h6 {
 
 .header .menu-item a:hover {
     text-decoration: underline;
-    color: rgba(0, 0, 0, 0.6)
+    color: rgba(103, 103, 103, 0.6)
 }
 .logo{
     width:78px;
@@ -221,7 +221,7 @@ h6 {
 }
 .gradient{
     background: rgb(43,43,43);
-    background: linear-gradient(151deg, var(--orange) 0%, var(--pink) 35%,var(--primary) 100%) !important;
+    /* background: linear-gradient(151deg, var(--red) 0%, var(--green) 35%,var(--primary) 100%) !important; */
 }
 .content .post .title {
     font-size: 1.275rem

@@ -28,7 +28,7 @@
 			</button>
 
 			<div id="navigation" class="collapse navbar-collapse flex-column" >
-				<img class="mb-3 mx-auto logo" src="/wp-content/themes/nbtheme/assets/images/bsf-icon-01.png`" alt="logo" >
+				<img class="mb-3 mx-auto logo" src="/wp-content/themes/nbtheme/assets/images/bsf-icon-01.png" alt="logo" >
 				
 				<?php
 				wp_nav_menu(
